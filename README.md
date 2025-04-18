@@ -3,6 +3,7 @@
 🎯 Aspiring Full-Stack Developer | Current Helpdesk Software Technician | Lifelong Learner
 
 💻 About Me
+
 I’m a tech-savvy problem solver with a strong foundation in IT support and a growing passion for web development.
 Currently working as a Helpdesk Software Technician, I’m transitioning into software development with a focus on frontend technologies and a long-term goal of becoming a Full-Stack Developer.
 
